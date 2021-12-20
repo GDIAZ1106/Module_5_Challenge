@@ -8,7 +8,7 @@ The purpose of this analysis is that using Python skills and knowledge of Pandas
 
 We have created a DataFrame with the information provided trying to summarize the information in a chart organized by city type, consiering the most important KPI to analyze the business: Total Rides, Total Drivers, Total Fares, Average Fare Rides and Average Fare Driver. What we get is the following information:
 
-![Outcome of analysis](/resources/Analysis_results.png)
+![Outcome of analysis](/resources/Analysis_results.PNG)
 
 As we can see on the charte the driver of the income of Pyber is from the Urban area. This city type represents 62.7% of the overall income. Only 6.8% comes from rural area and 30.5%.
 
@@ -20,7 +20,7 @@ Considering that the rate is higher in rural cities this is generating that the 
 
 If we consider the evolution of the fares during the period of January to April we could see that it is quite stable over the time and with a high correlation between the different city types.
 
-![Outcome of analysis](/resources/Challenge_fig.PNG)
+![Outcome of analysis] (/resources/Challenge_fig.PNG)
 
 We can observe an increase of the fares in the end of april for suburban areas that is not correlated with other city types and this could require a further analysis.
 
